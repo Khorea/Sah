@@ -1,0 +1,10 @@
+int find(char a[][9], char piece, char *cols, int *rows);
+void move(char *a, char col1, int i1, char col2, int i2);
+void updatePawns(char *a, char col1, int i1, char col2, int i2);
+void afiseaza(char *a);
+int sah(char *b, int player);
+int mat(char *a, int player);
+int isValidMove(char *a, char c1 ,int i1, char c2, int i2);
+void createControlMatrix(char *a, char *c, int player);
+void init();
+void egal(char *a, char *b);

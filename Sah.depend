@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1512480707 source:f:\altele\facultate\programarea calculatoarelor\probleme c\sah\main.c
+	<stdlib.h>
+	"sah.h"
+
+1511856496 f:\altele\facultate\programarea calculatoarelor\probleme c\sah\sah.c
+	<stdio.h>
+
+1512480371 f:\altele\facultate\programarea calculatoarelor\probleme c\sah\sah.h
+
+1512480751 source:f:\altele\facultate\programarea calculatoarelor\probleme c\sah\sah.c
+	<stdio.h>
+	<math.h>
+	"sah.h"
+
+1552137594 source:c:\users\horea\desktop\sah\main.c
+	<stdlib.h>
+	"sah.h"
+
+1552137594 c:\users\horea\desktop\sah\sah.h
+
+1552137594 source:c:\users\horea\desktop\sah\sah.c
+	<stdio.h>
+	<math.h>
+	"sah.h"
+
