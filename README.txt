@@ -1,0 +1,1 @@
+Programul reprezinta renumitul joc sah si implementeaza toate regulile acestuia exceptie cazul de remiza.
